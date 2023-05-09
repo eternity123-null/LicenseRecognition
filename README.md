@@ -1,4 +1,4 @@
-# LicenseRecognition
+# LicenseRecognition AI4701 计算机视觉课程大作业
 采用了两种方案：
 
 ① YOLOv5+LPRNet 由于YOLO是矩形锚框，所以LPR识别效果不好
